@@ -1,4 +1,6 @@
 # Medgrams - Medical Diagrams
+Using D3.JS, GoJS, or Markmap for the visualizations
+
 
 ## Contributing
 
