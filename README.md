@@ -1,22 +1,11 @@
-# create-svelte
+# Medgrams - Medical Diagrams
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## Contributing
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Steps:
+1. Clone
+2. Install dependencies with `yarn` (or `pnpm install` or `npm install`)
+3. Start a development server: , start a development server:
 
 ```bash
 npm run dev
@@ -26,8 +15,6 @@ npm run dev -- --open
 ```
 
 ## Building
-
-To create a production version of your app:
 
 ```bash
 npm run build
